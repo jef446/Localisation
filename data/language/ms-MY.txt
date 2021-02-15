@@ -3,99 +3,99 @@
 # Use # at the beginning of a line to leave a comment.
 STR_0000    :
 STR_0001    :{STRINGID} {COMMA16}
-STR_0002    :Spiral Roller Coaster
-STR_0003    :Stand-up Roller Coaster
-STR_0004    :Suspended Swinging Coaster
-STR_0005    :Inverted Roller Coaster
-STR_0006    :Junior Roller Coaster
-STR_0007    :Miniature Railway
-STR_0008    :Monorail
-STR_0009    :Mini Suspended Coaster
-STR_0010    :Boat Hire
-STR_0011    :Wooden Wild Mouse
-STR_0012    :Steeplechase
-STR_0013    :Car Ride
-STR_0014    :Launched Freefall
-STR_0015    :Bobsleigh Coaster
-STR_0016    :Observation Tower
-STR_0017    :Looping Roller Coaster
-STR_0018    :Dinghy Slide
-STR_0019    :Mine Train Coaster
-STR_0020    :Chairlift
-STR_0021    :Corkscrew Roller Coaster
-STR_0022    :Maze
-STR_0023    :Spiral Slide
-STR_0024    :Go-Karts
-STR_0025    :Log Flume
-STR_0026    :River Rapids
-STR_0027    :Dodgems
-STR_0028    :Swinging Ship
-STR_0029    :Swinging Inverter Ship
-STR_0030    :Food Stall
-STR_0031    :Unknown Stall (1D)
-STR_0032    :Drink Stall
-STR_0033    :Unknown Stall (1F)
-STR_0034    :Shop
-STR_0035    :Merry-Go-Round
-STR_0036    :Unknown Stall (22)
-STR_0037    :Information Kiosk
-STR_0038    :Toilets
-STR_0039    :Ferris Wheel
-STR_0040    :Motion Simulator
-STR_0041    :3D Cinema
-STR_0042    :Top Spin
-STR_0043    :Space Rings
-STR_0044    :Reverse Freefall Coaster
-STR_0045    :Lift
-STR_0046    :Vertical Drop Roller Coaster
-STR_0047    :Cash Machine
-STR_0048    :Twist
-STR_0049    :Haunted House
-STR_0050    :First Aid Room
-STR_0051    :Circus
-STR_0052    :Ghost Train
-STR_0053    :Twister Roller Coaster
-STR_0054    :Wooden Roller Coaster
-STR_0055    :Side-Friction Roller Coaster
-STR_0056    :Steel Wild Mouse
-STR_0057    :Multi-Dimension Roller Coaster
-STR_0058    :Unknown Ride (38)
-STR_0059    :Flying Roller Coaster
-STR_0060    :Unknown Ride (3A)
-STR_0061    :Virginia Reel
-STR_0062    :Splash Boats
-STR_0063    :Mini Helicopters
-STR_0064    :Lay-down Roller Coaster
-STR_0065    :Suspended Monorail
-STR_0066    :Unknown Ride (40)
-STR_0067    :Reverser Roller Coaster
-STR_0068    :Heartline Twister Coaster
-STR_0069    :Mini Golf
-STR_0070    :Giga Coaster
-STR_0071    :Roto-Drop
-STR_0072    :Flying Saucers
-STR_0073    :Crooked House
-STR_0074    :Monorail Cycles
-STR_0075    :Compact Inverted Coaster
-STR_0076    :Water Coaster
-STR_0077    :Air Powered Vertical Coaster
-STR_0078    :Inverted Hairpin Coaster
-STR_0079    :Magic Carpet
-STR_0080    :Submarine Ride
-STR_0081    :River Rafts
-STR_0082    :Unknown Ride (50)
-STR_0083    :Enterprise
-STR_0084    :Unknown Ride (52)
-STR_0085    :Unknown Ride (53)
-STR_0086    :Unknown Ride (54)
-STR_0087    :Unknown Ride (55)
-STR_0088    :Inverted Impulse Coaster
-STR_0089    :Mini Roller Coaster
-STR_0090    :Mine Ride
-STR_0091    :Unknown Ride (59)
-STR_0092    :LIM Launched Roller Coaster
-STR_0093    :Hybrid Coaster
-STR_0094    :Single Rail Roller Coaster
+STR_0002    :Roller Coaster Berlingkar
+STR_0003    :Roller Coaster Berdiri
+STR_0004    :Roller Coaster Bergantung dan Berayun
+STR_0005    :Roller Coaster Terbalik
+STR_0006    :Roller Coaster Kanak-Kanak
+STR_0007    :Keretapi Miniatur
+STR_0008    :Monorel
+STR_0009    :Roller Coaster Bergantung  Miniatur
+STR_0010    :Sewa sampan
+STR_0011    :Tikus Liar Kayu
+STR_0012    :Lumba Kuda
+STR_0013    :Naik Kereta
+STR_0014    :Lancar Terjun
+STR_0015    :Roller Coaster Bobslay
+STR_0016    :Menara Pandangan
+STR_0017    :Roller Coaster Bergelung
+STR_0018    :Suram Gelongsor
+STR_0019    :Keretapi Lombong
+STR_0020    :Lif Kerusi
+STR_0021    :Roller Coaster Pencungkil Gabus
+STR_0022    :Labirin
+STR_0023    :Gelongsor Berlingkar
+STR_0024    :Go-Kart
+STR_0025    :Gelongsor Air Kayu Balak
+STR_0026    :Jeram Sungai
+STR_0027    :Kereta Bumper
+STR_0028    :Kapal Berayun
+STR_0029    :Kapal Berayun Bergelung
+STR_0030    :Gerai Makan
+STR_0031    :Gerai (1D)
+STR_0032    :Gerai Minum
+STR_0033    :Gerai (1F)
+STR_0034    :Kedai
+STR_0035    :Kuda Karnaval
+STR_0036    :Kedai (22)
+STR_0037    :Kiosk Informasi
+STR_0038    :Tandas
+STR_0039    :Roda Ferris
+STR_0040    :Simulator Gerakan
+STR_0041    :Wayang 3D
+STR_0042    :Putaran Atas
+STR_0043    :Giroskop Angaksawan
+STR_0044    :Roller Coaster Terjun Terbalik
+STR_0045    :Lif
+STR_0046    :Roller Coaster Terjun Menegak
+STR_0047    :Mesin tunai
+STR_0048    :Berpusing
+STR_0049    :Rumah Hantu
+STR_0050    :Bilik Cemas
+STR_0051    :Sarkas
+STR_0052    :Keretapi Hantu
+STR_0053    :Roller Coaster Berlitar
+STR_0054    :Roller Coaster Kayu
+STR_0055    :Roller Coaster Geseran Tepi
+STR_0056    :Tikus Liar Besi
+STR_0057    :Roller Coaster Pelbagai Dimensi
+STR_0058    :Penarikan Tidak Diketahui (38)
+STR_0059    :Roller Coaster Terbang
+STR_0060    :Penarikan Tidak Diketahui (3A)
+STR_0061    :Tarian Virginia Reel
+STR_0062    :Kapal Air Terjun
+STR_0063    :Helikopter Miniatur
+STR_0064    :Roller Coaster Berbaring
+STR_0065    :Monorail Bergantung
+STR_0066    :Tunggangan Tidak Diketahui(40)
+STR_0067    :Roller Coaster Berbalik
+STR_0068    :Roller Coaster Pusing Jantung
+STR_0069    :Golf Mini
+STR_0070    :Roller Coaster giga
+STR_0071    :Putar-Terjun
+STR_0072    :Piring Terbang
+STR_0073    :Rumah Bengkok
+STR_0074    :Monorel Basikal
+STR_0075    :Roller Coaster Terbalik Padat
+STR_0076    :Roller Coaster Air 
+STR_0077    :Roller Coaster Menegak Berkuasa Angin
+STR_0078    :Roller Coaster Jepit Rambut Terbalik
+STR_0079    :Permaidani Terbang
+STR_0080    :Kapal Selam
+STR_0081    :Rakit Sungai
+STR_0082    :Tunggangan Tidak Diketahui (50)
+STR_0083    :Perusahaan
+STR_0084    :Tunggangan Tidak Diketahui  (52)
+STR_0085    :Tunggangan Tidak Diketahui  (53)
+STR_0086    :Tunggangan Tidak Diketahui  (54)
+STR_0087    :Tunggangan Tidak Diketahui  (55)
+STR_0088    :Roller Coaster Kawalan Impuls
+STR_0089    :Roller Coaster Mini 
+STR_0090    :Tunggangan Lombong
+STR_0091    :Tunggangan Tidak Diketahui  (59)
+STR_0092    :Roller Coaster Lancar LIM
+STR_0093    :Roller Coaster Hibrid
+STR_0094    :Roller Coaster Rel Tunggal
 STR_0512    :A compact roller coaster with a spiral lift hill and smooth, twisting drops.
 STR_0513    :A looping roller coaster where the riders ride in a standing position
 STR_0514    :Trains suspended beneath the roller coaster track swing out to the side around corners
