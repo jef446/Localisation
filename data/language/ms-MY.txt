@@ -105,7 +105,7 @@ STR_0517    :Penumpang berjalan didalam tren miniatur sepanjang landasan keretap
 STR_0518    :Penumpang berjalan didalam tren elektrik sepanjang landasan monorel
 STR_0519    :Penumpang berjalan didalam kereta kecil yang bergantung dibawah landasan tunggal, berayun bebas kesisi bila melengkung
 STR_0520    :Sebuah jeti dimana tetamu boleh pandu/mendayung kapal di atas badan air
-STR_0521    :Roller coaster laju dan berpusing dengan selekoh ketat dan bercuram. A fast and twisting roller coaster with tight turns and steep drops. Intensiti memang kuat.
+STR_0521    :Roller coaster laju dan berpusing dengan selekoh ketat dan bercuram. Intensiti memang kuat.
 STR_0522    :Roller coaster yang lebih kecil dari biasa dimana penunggang duduk diatas landasan tanpa dikelilingi kereta
 STR_0523    :Penumpang berjalan perlahan-lahan didalam kereta sepanjang landasan
 STR_0524    :Kereta dilancarkan secara pneumatik ke puncak menara besi tinggi dan dibvenarkan jatuh bebas kebawah
