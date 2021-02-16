@@ -177,56 +177,56 @@ STR_0600    :Powered mine trains career along a smooth and twisted track layout
 STR_0602    :Roller coaster trains are accelerated out of the station by linear induction motors to speed through twisting inversions
 STR_0603    :A wooden style roller coaster with a steel track, allowing for steep drops and inversions.
 STR_0604    :Riders ride single file on a narrow monorail track, as they race through tight inversions and direction changes.
-STR_0767    :Guest {INT32}
-STR_0768    :Handyman {INT32}
-STR_0769    :Mechanic {INT32}
-STR_0770    :Security Guard {INT32}
-STR_0771    :Entertainer {INT32}
-STR_0777    :Unnamed park{POP16}{POP16}
-STR_0778    :Sign
-STR_0779    :1st
-STR_0780    :2nd
-STR_0781    :3rd
-STR_0782    :4th
-STR_0783    :5th
-STR_0784    :6th
-STR_0785    :7th
-STR_0786    :8th
-STR_0787    :9th
-STR_0788    :10th
-STR_0789    :11th
-STR_0790    :12th
-STR_0791    :13th
-STR_0792    :14th
-STR_0793    :15th
-STR_0794    :16th
-STR_0795    :17th
-STR_0796    :18th
-STR_0797    :19th
-STR_0798    :20th
-STR_0799    :21st
-STR_0800    :22nd
-STR_0801    :23rd
-STR_0802    :24th
-STR_0803    :25th
-STR_0804    :26th
-STR_0805    :27th
-STR_0806    :28th
-STR_0807    :29th
-STR_0808    :30th
-STR_0809    :31st
+STR_0767    :Tetamu {INT32}
+STR_0768    :Tukang {INT32}
+STR_0769    :Mekanik {INT32}
+STR_0770    :Pengawai sekuriti {INT32}
+STR_0771    :Badut {INT32}
+STR_0777    :Taman tidak diketahui {POP16}{POP16}
+STR_0778    :Tanda
+STR_0779    :1hb
+STR_0780    :2hb
+STR_0781    :3hb
+STR_0782    :4hb
+STR_0783    :5hb
+STR_0784    :6hb
+STR_0785    :7hb
+STR_0786    :8hb
+STR_0787    :9hb
+STR_0788    :10hb
+STR_0789    :11hb
+STR_0790    :12hb
+STR_0791    :13hb
+STR_0792    :14hb
+STR_0793    :15hb
+STR_0794    :16hb
+STR_0795    :17hb
+STR_0796    :18hb
+STR_0797    :19hb
+STR_0798    :20hb
+STR_0799    :21hb
+STR_0800    :22hb
+STR_0801    :23hb
+STR_0802    :24hb
+STR_0803    :25hb
+STR_0804    :26hb
+STR_0805    :27hb
+STR_0806    :28hb
+STR_0807    :29hb
+STR_0808    :30hb
+STR_0809    :31hb
 STR_0810    :Jan
 STR_0811    :Feb
-STR_0812    :Mar
+STR_0812    :Mac
 STR_0813    :Apr
-STR_0814    :May
+STR_0814    :Mei
 STR_0815    :Jun
 STR_0816    :Jul
-STR_0817    :Aug
+STR_0817    :Ogo
 STR_0818    :Sep
-STR_0819    :Oct
+STR_0819    :Ovt
 STR_0820    :Nov
-STR_0821    :Dec
+STR_0821    :Dis
 STR_0822    :Unable to access graphic data file
 STR_0823    :Missing or inaccessible data file
 STR_0824    :{BLACK}❌
