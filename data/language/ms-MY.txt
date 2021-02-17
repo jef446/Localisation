@@ -49,7 +49,7 @@ STR_0044    :Roller Coaster Terjun Terbalik
 STR_0045    :Lif
 STR_0046    :Roller Coaster Terjun Menegak
 STR_0047    :Mesin tunai
-STR_0048    :Berpusing
+STR_0048    :Memulas
 STR_0049    :Rumah Hantu
 STR_0050    :Bilik Cemas
 STR_0051    :Sarkas
@@ -69,7 +69,7 @@ STR_0064    :Roller Coaster Berbaring
 STR_0065    :Monorail Bergantung
 STR_0066    :Tunggangan Tidak Diketahui(40)
 STR_0067    :Roller Coaster Berbalik
-STR_0068    :Roller Coaster Pusing Jantung
+STR_0068    :Roller Coaster Denyutan Jantung berpulas
 STR_0069    :Golf Mini
 STR_0070    :Roller Coaster giga
 STR_0071    :Putar-Terjun
@@ -96,20 +96,20 @@ STR_0091    :Tunggangan Tidak Diketahui  (59)
 STR_0092    :Roller Coaster Lancar LIM
 STR_0093    :Roller Coaster Hibrid
 STR_0094    :Roller Coaster Rel Tunggal
-STR_0512    :Roller Coaster padat yang memiliki cerun naik berlingkar dan terjun lancar, berpusing
+STR_0512    :Roller Coaster padat yang memiliki cerun naik berlingkar dan terjun lancar dan berpulas
 STR_0513    :Roller Coaster bergelung dimana penunggang semua berdiri
 STR_0514    :Tren bergantung dibawah landasan roller coaster berayun kesisi bila melengkung
-STR_0515    :Roller coaster besi dengan tren yang dimuat dibawah landasan, dengan berbagai unsur landasan kompleks and berpusing
+STR_0515    :Roller coaster besi dengan tren yang dimuat dibawah landasan, dengan berbagai unsur landasan kompleks and berpulas
 STR_0516    :Roller coaster lemah lembut untuk orang yand tidak mempunyai keberanian untuk menghadapi tunggangan lebih besar
 STR_0517    :Penumpang berjalan didalam tren miniatur sepanjang landasan keretapi sempit
 STR_0518    :Penumpang berjalan didalam tren elektrik sepanjang landasan monorel
 STR_0519    :Penumpang berjalan didalam kereta kecil yang bergantung dibawah landasan tunggal, berayun bebas kesisi bila melengkung
 STR_0520    :Sebuah jeti dimana tetamu boleh pandu/mendayung kapal di atas badan air
-STR_0521    :Roller coaster laju dan berpusing dengan selekoh ketat dan bercuram. Intensiti memang kuat.
+STR_0521    :Roller coaster laju dan berpulas dengan selekoh ketat dan bercuram. Intensiti memang kuat.
 STR_0522    :Roller coaster yang lebih kecil dari biasa dimana penunggang duduk diatas landasan tanpa dikelilingi kereta
 STR_0523    :Penumpang berjalan perlahan-lahan didalam kereta sepanjang landasan
 STR_0524    :Kereta dilancarkan secara pneumatik ke puncak menara besi tinggi dan dibvenarkan jatuh bebas kebawah
-STR_0525    :Penunggang meluru sepanjang landasan berpusing dipandu hanya oleh kelengkungan landasan separa bulat
+STR_0525    :Penunggang meluru sepanjang landasan berpulas dipandu hanya oleh kelengkungan landasan separa bulat
 STR_0526    :Penunggang berjalan dalam sebuah kabin yang menaiki menara pandangan tinggi 
 STR_0527    :Roller coaster lancar yang mampu melengkapi gelung vertikal
 STR_0528    :Penunggang berjalan dalam kapal suram mengembung sepanjang landasan separa bulat atau tiub penuh
@@ -118,11 +118,11 @@ STR_0530    :Kereta bergantung dibawah kabel besi dari mula sampai akhir
 STR_0531    :Roller coaster landasan besi yang padat dimana keretanya mengikuti jalan bergelung atau berbentuk pencungkil gabus
 STR_0532    :Pagar sesat dibina daripada semak tinggi atau dinding, dan tetamu bersiar-siar mencari arah keluar
 STR_0533    :Bangunan kayu yang mempunyai tangga didalam bangunan dan papan gelongsor berlingkar diluar yang harus ditunganggang diatas tikar
-STR_0534    :Tetamu berluma di dalam go-kart diatas landasan asfalt
-STR_0535    :Boats travel along a water channel, splashing down steep slopes to soak the riders
-STR_0536    :Circular boats meander along a wide water channel, splashing through waterfalls and thrilling riders through foaming rapids
-STR_0537    :Guests bump into each other in self-drive electric dodgems
-STR_0538    :Large swinging pirate ship
+STR_0534    :Tetamu berlumba di dalam go-kart diatas landasan asfalt
+STR_0535    :Kapal berlayar diatas saluran air, memercikkan air dibawah curam untuk membasuhi penunggang
+STR_0536    :Kapal bebulat berliku sepanjand saluran air, memercikkan air bila melalui air terjun dan menyebabkan perasaan seronok didalam hati penunggang bila melalui jeram sungai berbuih
+STR_0537    :Tetamu melantak orang lain didalam kereta bumper elektrik
+STR_0538    :Kapal lanun besar yang berayun
 STR_0539    :Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees
 STR_0540    :A stall where guests can purchase food
 STR_0542    :A stall where guests can purchase drinks
