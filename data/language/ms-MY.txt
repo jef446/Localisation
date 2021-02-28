@@ -120,18 +120,18 @@ STR_0532    :Pagar sesat dibina daripada semak tinggi atau dinding, dan tetamu b
 STR_0533    :Bangunan kayu yang mempunyai tangga didalam bangunan dan papan gelongsor berlingkar diluar yang harus ditunganggang diatas tikar
 STR_0534    :Tetamu berlumba di dalam go-kart diatas landasan asfalt
 STR_0535    :Kapal berlayar diatas saluran air, memercikkan air dibawah curam untuk membasuhi penunggang
-STR_0536    :Kapal bebulat berliku sepanjand saluran air, memercikkan air bila melalui air terjun dan menyebabkan perasaan seronok didalam hati penunggang bila melalui jeram sungai berbuih
+STR_0536    :Kapal bebulat berliku sepanjang saluran air, memercikkan air bila melalui air terjun dan menyebabkan perasaan seronok didalam hati penunggang bila melalui jeram sungai berbuih
 STR_0537    :Tetamu melantak orang lain didalam kereta bumper elektrik
 STR_0538    :Kapal lanun besar yang berayun
-STR_0539    :Ship is attached to an arm with a counterweight at the opposite end, and swings through a complete 360 degrees
-STR_0540    :A stall where guests can purchase food
-STR_0542    :A stall where guests can purchase drinks
-STR_0544    :A stall that sells souvenirs
-STR_0545    :Traditional rotating carousel with carved wooden horses
-STR_0547    :A stall where guests can obtain park maps and purchase umbrellas
-STR_0548    :A toilet building
-STR_0549    :Rotating big wheel with open chairs
-STR_0550    :Riders view a film inside the motion simulator pod while it is twisted and moved around by a hydraulic arm
+STR_0539    :Kapal dihubungi ke sebuah rasuk yang mempunyai timbal balik di hujung rasuk bertentangan. Kapal berayun 360 darjah lengkap.
+STR_0540    :Gerai dimana tetamu boleh membeli makanan
+STR_0542    :Gerai dimana tetamu boleh membeli minuman
+STR_0544    :Gerai yag menjual cenderahati
+STR_0545    :Korsel kuda kayu 
+STR_0547    :Gerai dimana tetamu boleh memperolehi peta taman dan membeli payung
+STR_0548    :Pondok tandas
+STR_0549    :Roda berputar besae yang ada kerusi buka. 
+STR_0550    :Penunggang menonton filem  didalam simulator gerakan sambil ia dipintalkan dan ditolak oleh sebuah rasuk hidraulik.
 STR_0551    :Cinema showing 3D films inside a geodesic sphere shaped building
 STR_0552    :Passengers ride in a gondola suspended by large rotating arms, rotating forwards and backwards head-over-heels
 STR_0553    :Concentric pivoting rings allowing the riders free rotation in all directions
