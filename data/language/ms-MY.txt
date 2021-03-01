@@ -146,8 +146,8 @@ STR_0561    :Persembahan sarkas binatang didalam khemah besar
 STR_0562    :Kereta berjalan sepanjang landasan bertingkat melintasi pemandangan seram dan kesan khas.
 STR_0563    :Penunggang menikmati terjun besar, lancar dan berlitar-litar tambah lagi "masa udara" diatas bukit sambil menduduk didalam tren hanya emakai tali keledar biasa.
 STR_0564    :Bergerak di atas landasan kayu, roller coaster ini cepat, kasar, bising dan membangkitkan perasaan "luar kawalan" dengan banyak "masa udara"
-STR_0565    :A simple wooden roller coaster capable of only gentle slopes and turns, where the cars are only kept on the track by side friction wheels and gravity
-STR_0566    :Individual roller coaster cars zip around a tight zig-zag layout of track with sharp corners and short sharp drops
+STR_0565    :Roller coaster kayu yang sederhana dan hanya mampu menaiki cerun rendah, dimana kereta hanya dipandu dengan roda geseran ditepi kereta and kuasa graviti
+STR_0566    :Kereta roller coaster berindividu dan bergerak laju dan berbelok-berbelok di dalam lanadasan yang mempunyai banyak curam
 STR_0567    :Sitting in seats suspended either side of the track, riders are pitched head-over-heels while they plunge down steep drops and travel through various inversions
 STR_0569    :Riding in special harnesses below the track, riders experience the feeling of flight as they swoop through the air
 STR_0571    :Circular cars spin around as they travel along the zig-zagging wooden track
